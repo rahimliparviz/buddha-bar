@@ -1,0 +1,7 @@
+2018-11-04 15:41:11	guest	http://142.93.226.63:25080/en/contact/	Error in hnsmtp::send : cannot connect to smtp-server!
+2018-11-04 15:46:49	guest	http://142.93.226.63:25080/en/contact/	Error in hnsmtp::send : cannot connect to smtp-server!
+2018-11-13 10:20:59	admin	http://142.93.226.63:25080/en/contact/	Error in hnsmtp::send : cannot connect to smtp-server!
+2018-11-13 12:02:03	admin	http://142.93.226.63:25080/en/contact/	Error in hnsmtp::send : cannot connect to smtp-server!
+2018-11-13 12:02:12	admin	http://142.93.226.63:25080/en/contact/	Error in hnsmtp::send : cannot connect to smtp-server!
+2018-11-13 12:07:11	admin	http://142.93.226.63:25080/en/contact/	Error in hnsmtp::send : cannot connect to smtp-server!
+2018-11-13 12:07:56	admin	http://142.93.226.63:25080/en/contact/	Error in hnsmtp::send : cannot connect to smtp-server!

@@ -1,0 +1,60 @@
+2018-10-19 08:21:30	admin	http://localhost:8080/buddah/processwire-master/	Added filedata to DB schema for 'images'
+2018-10-19 09:02:44	admin	http://localhost:8080/buddah/processwire-master/admin/page/sort/	Updated sort for 2 pages
+2018-10-19 09:02:59	admin	http://localhost:8080/buddah/processwire-master/admin/page/sort/	Updated sort for 7 pages
+2018-10-19 12:09:14	admin	http://localhost:8080/buddah/admin/setup/languages/	Added filedata to DB schema for 'language_files'
+2018-10-19 12:09:14	admin	http://localhost:8080/buddah/admin/setup/languages/	Added filedata to DB schema for 'language_files_site'
+2018-10-19 13:54:41	admin	http://localhost:8080/buddah/admin/page/sort/	Updated sort for 8 pages
+2018-10-19 13:59:04	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;page_background&quot; data in 1 row(s) from 1 page(s) using template &quot;contact&quot;. [page-by-page]
+2018-10-19 13:59:28	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;page_background&quot; data in 0 row(s) from 0 page(s) using template &quot;home&quot;. [page-by-page]
+2018-10-19 14:03:27	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;page_class&quot; data in 0 row(s) from 0 page(s) using template &quot;home&quot;. [page-by-page]
+2018-10-19 14:03:27	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;page_img&quot; data in 0 row(s) from 0 page(s) using template &quot;home&quot;. [page-by-page]
+2018-10-20 13:04:36	admin	http://localhost:8080/buddah/admin/setup/field/save	Deleted field &quot;social_icon&quot; data in 0 row(s) from 0 page(s) using template &quot;repeater_socials&quot;. [page-by-page]
+2018-10-21 10:57:31	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;headline&quot; data in 1 row(s) from 1 page(s) using template &quot;home&quot;. [page-by-page]
+2018-10-21 10:57:31	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;summary&quot; data in 1 row(s) from 1 page(s) using template &quot;home&quot;. [page-by-page]
+2018-10-21 10:57:31	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;body&quot; data in 1 row(s) from 1 page(s) using template &quot;home&quot;. [page-by-page]
+2018-10-21 10:57:31	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;sidebar&quot; data in 1 row(s) from 1 page(s) using template &quot;home&quot;. [page-by-page]
+2018-10-21 10:57:31	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;images&quot; data in 2 row(s) from 1 page(s) using template &quot;home&quot;. [page-by-page]
+2018-10-21 18:14:46	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;summary&quot; data in 0 row(s) from 0 page(s) using template &quot;home&quot;. [page-by-page]
+2018-10-21 18:15:09	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;slider_images&quot; data in 1 row(s) from 1 page(s) using template &quot;home&quot;. [page-by-page]
+2018-10-21 18:29:56	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;page_img&quot; data in 0 row(s) from 0 page(s) using template &quot;home&quot;. [page-by-page]
+2018-10-21 18:29:56	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;page_class&quot; data in 0 row(s) from 0 page(s) using template &quot;home&quot;. [page-by-page]
+2018-10-21 18:32:04	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;page_background_img&quot; data in 0 row(s) from 0 page(s) using template &quot;home&quot;. [page-by-page]
+2018-10-21 19:37:27	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;page_class&quot; data in 1 row(s) from 1 page(s) using template &quot;contact&quot;. [page-by-page]
+2018-10-21 19:37:27	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;page_img&quot; data in 1 row(s) from 1 page(s) using template &quot;contact&quot;. [page-by-page]
+2018-10-22 10:42:35	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;icon&quot; data in 0 row(s) from 0 page(s) using template &quot;about&quot;. [page-by-page]
+2018-10-22 11:41:30	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;page_img&quot; data in 0 row(s) from 0 page(s) using template &quot;about&quot;. [page-by-page]
+2018-10-22 11:46:47	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;headline&quot; data in 0 row(s) from 0 page(s) using template &quot;about&quot;. [page-by-page]
+2018-10-22 12:20:21	admin	http://localhost:8080/buddah/admin/page/sort/	Updated sort for 1 pages
+2018-10-22 12:21:12	admin	http://localhost:8080/buddah/admin/page/sort/	Updated sort for 10 pages
+2018-10-22 12:21:23	admin	http://localhost:8080/buddah/admin/page/sort/	Updated sort for 2 pages
+2018-10-22 12:21:39	admin	http://localhost:8080/buddah/admin/page/sort/	Updated sort for 2 pages
+2018-10-23 10:27:31	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;images&quot; data in 0 row(s) from 0 page(s) using template &quot;music&quot;. [page-by-page]
+2018-10-23 13:00:26	admin	http://localhost:8080/buddah/admin/page/sort/	Updated sort for 9 pages
+2018-10-23 13:00:39	admin	http://localhost:8080/buddah/admin/page/sort/	Updated sort for 5 pages
+2018-10-23 13:01:36	admin	http://localhost:8080/buddah/admin/page/sort/	Updated sort for 3 pages
+2018-10-23 13:01:46	admin	http://localhost:8080/buddah/admin/page/sort/	Updated sort for 3 pages
+2018-10-23 14:47:30	admin	http://localhost:8080/buddah/admin/page/sort/	Updated sort for 2 pages
+2018-10-23 15:01:18	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;images&quot; data in 0 row(s) from 0 page(s) using template &quot;event&quot;. [page-by-page]
+2018-10-24 09:09:52	admin	http://localhost:8080/buddah/admin/page/sort/	Updated sort for 3 pages
+2018-10-25 14:13:40	admin	http://localhost:8080/buddah/admin/page/sort/	Updated sort for 12 pages
+2018-10-25 14:31:43	admin	http://localhost:8080/buddah/admin/setup/field/save	Deleted field &quot;services_button&quot; data in 2 row(s) from 2 page(s) using template &quot;repeater_services&quot;. [page-by-page]
+2018-10-26 08:50:13	admin	http://localhost:8080/buddah/admin/page/sort/	Updated sort for 3 pages
+2018-10-26 08:51:59	admin	http://localhost:8080/buddah/admin/page/sort/	Updated sort for 2 pages
+2018-10-26 09:16:03	admin	http://localhost:8080/buddah/admin/page/sort/	Updated sort for 3 pages
+2018-10-26 10:00:04	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;body&quot; data in 0 row(s) from 0 page(s) using template &quot;reservation&quot;. [page-by-page]
+2018-10-26 10:00:04	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;cover_img&quot; data in 0 row(s) from 0 page(s) using template &quot;reservation&quot;. [page-by-page]
+2018-10-26 10:02:04	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;person&quot; data in 0 row(s) from 0 page(s) using template &quot;reservation&quot;. [page-by-page]
+2018-10-26 10:18:53	admin	http://localhost:8080/buddah/admin/page/sort/	Updated sort for 7 pages
+2018-10-26 11:48:48	admin	http://localhost:8080/buddah/admin/setup/field/save	Deleted field &quot;title&quot; data in 3 row(s) from 3 page(s) using template &quot;repeater_menu_section&quot;. [page-by-page]
+2018-10-28 15:55:30	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;albums&quot; data in 2 row(s) from 2 page(s) using template &quot;event&quot;. [page-by-page]
+2018-10-28 15:55:30	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;pr&quot; data in 0 row(s) from 0 page(s) using template &quot;event&quot;. [page-by-page]
+2018-10-29 12:09:13	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;cover_img&quot; data in 3 row(s) from 3 page(s) using template &quot;album&quot;. [page-by-page]
+2018-10-29 12:09:13	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;page_class&quot; data in 3 row(s) from 3 page(s) using template &quot;album&quot;. [page-by-page]
+2018-10-29 12:09:13	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;page_background_img&quot; data in 2 row(s) from 2 page(s) using template &quot;album&quot;. [page-by-page]
+2018-10-29 12:09:13	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;images&quot; data in 5 row(s) from 1 page(s) using template &quot;album&quot;. [page-by-page]
+2018-10-29 12:09:14	admin	http://localhost:8080/buddah/admin/setup/template/removeFields	Deleted field &quot;videos_links&quot; data in 39 row(s) from 39 page(s) using template &quot;album&quot;. [page-by-page]
+2018-10-30 09:16:20	admin	http://localhost:8080/buddah/admin/page/sort/	Updated sort for 13 pages
+2018-11-02 12:50:09	admin	http://142.93.226.63:25080/admin/setup/template/removeFields	Deleted field &quot;location&quot; data in 1 row(s) from 1 page(s) using template &quot;contact&quot;. [page-by-page]
+2018-11-08 11:14:39	admin	http://142.93.226.63:25080/admin/setup/template/removeFields	Deleted field &quot;page_img&quot; data in 0 row(s) from 0 page(s) using template &quot;music&quot;. [page-by-page]
+2018-11-08 11:14:39	admin	http://142.93.226.63:25080/admin/setup/template/removeFields	Deleted field &quot;body&quot; data in 1 row(s) from 1 page(s) using template &quot;music&quot;. [page-by-page]
+2018-11-08 11:14:39	admin	http://142.93.226.63:25080/admin/setup/template/removeFields	Deleted field &quot;link&quot; data in 1 row(s) from 1 page(s) using template &quot;music&quot;. [page-by-page]

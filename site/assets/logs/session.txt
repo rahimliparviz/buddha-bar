@@ -1,0 +1,53 @@
+2018-10-18 15:41:27	admin	http://localhost:8080/buddah/processwire-master/admin/login/	Successful login for 'admin'
+2018-10-19 12:33:04	admin	http://localhost:8080/buddah/processwire-master/admin/login/	Successful login for 'admin'
+2018-10-19 13:32:41	guest	http://localhost:8080/buddah/admin/login/	Error: Failed login for 'admin' - Invalid password
+2018-10-19 13:32:51	admin	http://localhost:8080/buddah/admin/login/	Successful login for 'admin'
+2018-10-20 10:52:42	admin	http://localhost:8080/buddah/admin/login/	Successful login for 'admin'
+2018-10-21 10:55:23	admin	http://localhost:8080/buddah/admin/login/	Successful login for 'admin'
+2018-10-22 08:32:47	admin	http://localhost:8080/buddah/admin/login/	Successful login for 'admin'
+2018-10-22 09:58:07	admin	http://localhost:8080/buddah/admin/login/add/	Successful login for 'admin'
+2018-10-23 09:15:52	admin	http://localhost:8080/buddah/admin/login/	Successful login for 'admin'
+2018-10-25 08:29:00	guest	http://localhost:8080/buddah/admin/login/	Error: Failed login for 'admin' - Invalid password
+2018-10-25 08:29:01	admin	http://localhost:8080/buddah/admin/login/	Successful login for 'admin'
+2018-10-25 14:28:43	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 0.0.0.0)
+2018-10-25 14:28:59	guest	http://localhost:8080/buddah/admin/login/?id=1077	Error: Failed login for 'admin' - Invalid password
+2018-10-25 14:29:20	admin	http://localhost:8080/buddah/admin/login/?id=1077	Successful login for 'admin'
+2018-10-27 11:32:12	admin	http://localhost:8080/buddah/admin/login/	Successful login for 'admin'
+2018-10-29 09:24:51	admin	http://localhost:8080/buddah/admin/login/	Successful login for 'admin'
+2018-10-30 07:48:21	admin	http://localhost:8080/buddah/admin/login/	Successful login for 'admin'
+2018-10-31 07:58:38	admin	http://localhost:8080/buddah/admin/login/	Successful login for 'admin'
+2018-11-01 07:38:42	guest	http://localhost:8080/buddah/admin/login/	Error: Failed login for 'admin' - Invalid password
+2018-11-01 07:39:29	admin	http://localhost:8080/buddah/admin/login/	Successful login for 'admin'
+2018-11-02 13:44:27	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 93.88.81.74)
+2018-11-05 11:09:53	admin	http://142.93.226.63:25080/admin/login/	Successful login for 'admin'
+2018-11-05 12:09:09	admin	http://142.93.226.63:25080/admin/login/	Successful login for 'admin'
+2018-11-05 16:39:43	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 95.86.158.88)
+2018-11-06 09:02:14	admin	http://142.93.226.63:25080/admin/login/	Successful login for 'admin'
+2018-11-06 09:02:21	admin	http://142.93.226.63:25080/admin/login/	Successful login for 'admin'
+2018-11-06 18:04:07	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 194.135.170.192)
+2018-11-07 08:22:01	admin	http://142.93.226.63:25080/admin/login/	Successful login for 'admin'
+2018-11-08 08:46:32	admin	http://142.93.226.63:25080/admin/login/	Successful login for 'admin'
+2018-11-08 10:55:27	?	?	User 'admin' - Session timed out (session older than 86400 seconds) (IP: 194.135.171.194)
+2018-11-08 10:55:44	admin	http://142.93.226.63:25080/admin/login/	Successful login for 'admin'
+2018-11-08 14:13:00	admin	http://142.93.226.63:25080/admin/login/	Successful login for 'admin'
+2018-11-08 16:40:50	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 95.86.149.39)
+2018-11-08 16:40:52	admin	http://142.93.226.63:25080/admin/login/	Successful login for 'admin'
+2018-11-09 05:34:29	admin	http://142.93.226.63:25080/admin/login/	Successful login for 'admin'
+2018-11-09 09:51:13	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 85.132.4.18)
+2018-11-09 09:51:50	admin	http://142.93.226.63:25080/admin/login/	Successful login for 'admin'
+2018-11-12 06:51:49	admin	http://142.93.226.63:25080/admin/login/	Successful login for 'admin'
+2018-11-13 09:17:38	admin	http://142.93.226.63:25080/admin/login/	Successful login for 'admin'
+2018-11-16 08:12:56	?	?	User 'admin' - Session timed out (session older than 86400 seconds) (IP: 213.172.79.217)
+2018-11-19 11:10:25	admin	http://142.93.226.63:25080/admin/login/	Successful login for 'admin'
+2018-11-20 07:41:52	admin	http://142.93.226.63:25080/admin/login/	Successful login for 'admin'
+2018-11-20 10:59:59	admin	http://142.93.226.63:25080/admin/login/	Successful login for 'admin'
+2018-11-20 14:09:10	admin	http://142.93.226.63:25080/admin/login/	Successful login for 'admin'
+2018-11-23 09:29:10	admin	http://142.93.226.63:25080/admin/login/	Successful login for 'admin'
+2018-11-27 13:39:19	admin	http://142.93.226.63:25080/admin/login/	Successful login for 'admin'
+2018-11-27 13:39:53	admin	http://142.93.226.63:25080/admin/login/	Successful login for 'admin'
+2018-11-28 07:27:15	admin	http://142.93.226.63:25080/admin/login/	Successful login for 'admin'
+2018-11-29 09:15:08	?	?	User 'admin' - Session timed out (session older than 86400 seconds) (IP: 93.88.81.74)
+2018-12-03 08:05:27	?	?	User 'admin' - Session timed out (session older than 86400 seconds) (IP: 93.88.81.74)
+2018-12-03 13:08:30	admin	http://142.93.226.63:25080/admin/login/	Successful login for 'admin'
+2018-12-03 14:34:56	admin	http://142.93.226.63:25080/admin/login/	Successful login for 'admin'
+2018-12-03 16:36:04	admin	http://142.93.226.63:25080/admin/login/	Successful login for 'admin'
